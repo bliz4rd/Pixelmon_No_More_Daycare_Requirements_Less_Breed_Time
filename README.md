@@ -2,3 +2,6 @@
 
 A Pixelmon datapack that disable the requirement for breeding and lower the breeding time to 0 seconds 
 
+Contributors:
+- bliz4rd
+- hisakiyo
